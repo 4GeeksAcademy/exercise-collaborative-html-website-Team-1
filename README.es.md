@@ -72,6 +72,7 @@ Este y otros proyectos son usados para [aprender a programar](https://4geeksacad
 
 
 Equipo:
+
 Guisella Barboza
 - navbar
 - tagline
