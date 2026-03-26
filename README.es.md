@@ -76,10 +76,10 @@ Guisella Barboza
 - navbar
 - tagline
 
-David Velasquez
-- first_heading.html
-- services.html
-
 Elmer Menjivar
 -portfolio.html
 - footer.html
+
+David Velasquez y Dany Martinez
+- first_heading.html
+- services.html
