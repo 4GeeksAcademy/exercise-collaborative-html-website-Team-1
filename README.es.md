@@ -77,7 +77,7 @@ Guisella Barboza
 - tagline
 
 Elmer Menjivar
--portfolio.html
+- portfolio.html
 - footer.html
 
 David Velasquez y Dany Martinez
